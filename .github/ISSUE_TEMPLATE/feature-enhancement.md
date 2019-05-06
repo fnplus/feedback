@@ -1,0 +1,21 @@
+---
+name: Feature Enhancement
+about: Suggest an idea to improve an existing feature. If this doesn’t look right,
+  choose a different type.
+title: 'Issue: Feature Enhancement'
+labels: ''
+assignees: ''
+
+---
+
+**Name of the feature**
+Ex: Profile page, blogs page, Hashnode editor, etc.
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
