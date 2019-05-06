@@ -1,7 +1,6 @@
 ---
 name: Feature Enhancement
-about: Suggest an idea to improve an existing feature. If this doesn’t look right,
-  choose a different type.
+about: Suggest an idea to improve an existing feature.
 title: 'Issue: Feature Enhancement'
 labels: ''
 assignees: ''
